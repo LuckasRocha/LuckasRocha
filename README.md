@@ -3,11 +3,9 @@
 <p>Meu nome é <strong>Lucas Rocha</strong>, Futuro Desenvolvedor Front-End apaixonado por Tecnologia, Programação e RPG.</p>
 
 <div align="center">
-    <img width="50%" height="160em" src="https://github-readme-stats.vercel.app/api?username=LuckasRocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-    <img width="40%" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckasRocha&layout=compact&langs_count=7&theme=dracula">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuckasRocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckasRocha&layout=compact&langs_count=7&theme=dracula">
 </div>
-
-<hr>
 
 <h2>🛠️ Linguagens e Ferramentas que Utilizo</h2>
 

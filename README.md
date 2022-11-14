@@ -4,7 +4,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuckasRocha&theme=dracula&show_icons=true)
 ![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuckasRocha&hide=html&layout=compact=true&theme=dracula)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuckasRocha&layout=compact&langs_count=7&theme=dracula)
 
 ----
 

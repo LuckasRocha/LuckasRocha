@@ -1,6 +1,6 @@
 <h2 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello, Welcome to my profile!</h1>
 
-<p>I'm <strong>Lucas Rocha</strong>, Future Front-End Developer passionate about Technology, Programming and RPG.</p>
+<p align="center">I'm <strong>Lucas Rocha</strong>, Future Front-End Developer passionate about Technology, Programming and RPG.</p>
 
 <div align="center">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LuckasRocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">

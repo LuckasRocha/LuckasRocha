@@ -2,7 +2,7 @@
 
 > Meu nome é <strong>Lucas Rocha</strong>, Futuro Desenvolvedor Front-End apaixonado por Tecnologia, Programação e RPG.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuckasRocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 ![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuckasRocha&layout=compact&langs_count=7&theme=dracula)
 
 ----

@@ -2,11 +2,14 @@
 
 <p align="center">I'm <strong>Lucas Rocha</strong>, Future Front-End Developer passionate about Technology, Programming and RPG.</p>
 <br>
+
 <div align="center">
-    <img height="170rem" src="https://github-readme-stats.vercel.app/api?username=LuckasRocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-    <img height="120rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckasRocha&layout=compact&langs_count=7&theme=dracula">
+  <a href="https://github.com/LuckasRocha">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuckasRocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+  <img height="120rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckasRocha&layout=compact&langs_count=7&theme=dracula">
 </div>
 <br>
+    
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b></h2>
 
 <ul>
